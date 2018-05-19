@@ -1,0 +1,8 @@
+name: Better
+version: 1.0
+main: codes.carl.Better.Main
+
+commands:
+   kit:
+      description: Gives the player a tool and armor kit
+      usage: /kit
