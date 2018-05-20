@@ -1,5 +1,5 @@
 # betterminecraft
-A plugin for Minecraft for Spigot 1.12.2 to improve the experience (aka a bit cheaty)
+A plugin for Minecraft for Spigot 1.12.2 to improve the experience for building
 
 ## Features
 
